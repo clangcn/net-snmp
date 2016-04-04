@@ -1,4 +1,5 @@
 ![](http://www.net-snmp.org/images/logos/logo-5.2.jpg)
+
 A composite image of images from locations that use the Net-SNMP package.
 
 Simple Network Management Protocol (SNMP) is a widely used protocol for monitoring the health and welfare of network equipment (eg. routers), computer equipment and even devices like UPSs. Net-SNMP is a suite of applications used to implement SNMP v1, SNMP v2c and SNMP v3 using both IPv4 and IPv6. The suite includes:

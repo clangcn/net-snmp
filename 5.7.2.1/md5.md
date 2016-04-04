@@ -1,0 +1,2 @@
+7db683faba037249837b226f64d566d4  net-snmp-5.7.2.1.tar.gz
+a2c83518648b0f2a5d378625e45c0e18  net-snmp-5.7.2.1.zip
